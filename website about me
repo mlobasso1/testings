@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<!-- Website Title Message-->
+		<title>About Me...</title>
+	</head>
+	<body>
+		<!--Intro Greetings, name, class, github link, hobbies-->
+		<h1 class="nice">Hi my name is Michael Lo Basso!</h1>
+		<h2 class="greeting">Greeting from CISC2350</h2>
+			<a href="https://github.com/mlobasso1/" target="_blank"> My github account</a>
+			<p> I am a Senior at Fordham University and majoring in Computer Science with a minor in cyber security</p>
+			<p> The hobbies I enjoy involve weightlifting, fishing, and video games.</p>
+				<img src="barbell.jpg">
+				<img src="fishing.jpg">
+				<img src="nintendo.jpg">
+		<!--Class lists I am taking, would like to take, link to fordham degree-->
+		<h3>Classes Which I am taking and would like to take:</h2>
+			<a href="https://www.fordham.edu/info/25364/computer_science_degree" target="_blank">Fordham CS Degree</a>
+				<img src="compsci.jpg">
+		<ul>
+			<li>Information Web Programming</li>
+			<li>Information and Data Management</li>
+			<li>Cyber Secure Systems</li>
+			<li>Information Retrieval Systems</li>
+			<li>Theory of Computation</li>
+		</ul>
+		<!--Order list of favorite foods and pics-->
+		<h3>My favorite foods:</h2>
+		<ol> 
+			<li>Cheese Burgers</li>
+				<img src="hamburger.jpg">
+			<li>Pizza</li>
+				<img src="pizza.jpg">
+			<li>Sushi</li>
+				<img src="sushi.jpg">
+		</ol>
+	</body>
+</html>
